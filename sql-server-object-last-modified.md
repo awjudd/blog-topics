@@ -11,4 +11,6 @@ At those times, in order to verify that nothing has actually changed recently, I
 
 This tells you the last time that an object in the database has changed.
 
+Please Note: this works on any type of object that is in your database.
+
 Hopefully this will help you to quickly determine if an object has changed recently, or if it was a pre-existing bug.
