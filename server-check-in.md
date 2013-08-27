@@ -14,7 +14,7 @@ Polls your site every 10 (5 if you have the premium account) minutes for one of 
    - Website - HTTP/HTTPS Content
    - Server - Basic Ping
 
-If your site is unavailable on the requested method, you immediately get an email saying that your site is down.  The application will then continue to monitor your site's status and let you know as soon as the site has become accessible again.  Once the server is back up, you will get one last email saying that your server is back up and how long it was actually down for.
+If your site is unavailable on the requested method, you immediately get an email (or a text message) saying that your site is down.  The application will then continue to monitor your site's status and let you know as soon as the site has become accessible again.  Once the server is back up, you will get one last email saying that your server is back up and how long it was actually down for.
 
 This helps to alleviate the burden of the manual check to see if your site is still up, and will set you up for success if you send in a support ticket.
 
