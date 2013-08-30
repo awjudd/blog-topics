@@ -13,3 +13,4 @@ Done:
  - Programmatically Determine the last time an object was modified
  - Server Check In
  - Visual Studio – Show Whitespace Characters
+ - Programmatic Way of Generating a Column List (for inserting or selecting)
