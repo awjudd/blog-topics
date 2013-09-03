@@ -5,7 +5,6 @@ All blog topics that I can think of (and content)
 
 Pending:
  - Use of Scalar Valued functions on tables (don't do it)
- - Columnstore Index Quirks
  - Partition Swapping - Non Clustered Indexes
 
 Done:
@@ -15,3 +14,4 @@ Done:
  - Visual Studio – Show Whitespace Characters
  - Mysql Convenience Configuration File
  - Rubik's Cube
+ - Columnstore Index Quirks
