@@ -6,7 +6,6 @@ All blog topics that I can think of (and content)
 Pending:
  - Use of Scalar Valued functions on tables (don't do it)
  - Partition Swapping - Non Clustered Indexes
- - Sites that allow you to format code/xml cleanly with the press of a button
 
 Done:
  - AdventureWorks
@@ -16,3 +15,4 @@ Done:
  - Mysql Convenience Configuration File
  - Rubik's Cube
  - Columnstore Index Quirks
+ - Sites that allow you to format code/xml cleanly with the press of a button
